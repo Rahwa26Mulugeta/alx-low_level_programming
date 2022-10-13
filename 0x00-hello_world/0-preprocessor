@@ -1,13 +1,2 @@
 #!/bin/bash                                                                                                  
-
-#include <stdio.h>                                                                                           
-
-/**                                                                                                        
-
- *int main (void)                                                                                            
-
-   * printf("export CFILE=main.c");                                                                          
-                                                                                                           
- * Return 0;                                                                                                 
-
-*/
+export CFILE=0-main.c
